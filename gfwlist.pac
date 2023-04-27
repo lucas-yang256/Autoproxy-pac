@@ -16,6 +16,7 @@
 ! https://github.com/gfwlist/gfwlist/issues/.
 
 !-----User rules-----
+||chatpdf.com
 .vimeocdn.com
 ||vimeocdn.com
 .github.com
