@@ -16,6 +16,10 @@
 ! https://github.com/gfwlist/gfwlist/issues/.
 
 !-----User rules-----
+.smilewanted.com
+.amazon-adsyste.com
+.openx.net
+.nex8.net
 ||ebooks.com
 ||chatpdf.com
 .vimeocdn.com
