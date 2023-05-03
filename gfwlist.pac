@@ -15,7 +15,7 @@
 ! or suggestion / enhancement at issue tracker:
 ! https://github.com/gfwlist/gfwlist/issues/.
 
-!-----User rules-----
+!-----User rules----
 ||smilewanted.com
 ||amazon-adsyste.com
 ||openx.net
