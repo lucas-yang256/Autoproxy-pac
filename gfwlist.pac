@@ -15,12 +15,19 @@
 ! or suggestion / enhancement at issue tracker:
 ! https://github.com/gfwlist/gfwlist/issues/.
 
-!-----User rules----
+!====== User rules: neglect=====
 ||smilewanted.com
 ||amazon-adsyste.com
 ||openx.net
 ||nex8.net
+||ipredictive.com
+||gstatic.com
+
+!====== User rules: slow=====
 ||ebooks.com
+
+
+!-----User rules----
 ||chatpdf.com
 .vimeocdn.com
 ||vimeocdn.com
