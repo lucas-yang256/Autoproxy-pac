@@ -28,6 +28,7 @@
 
 
 !-----User rules----
+||openlibrary.org
 ||chatpdf.com
 .vimeocdn.com
 ||vimeocdn.com
