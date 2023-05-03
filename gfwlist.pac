@@ -22,6 +22,10 @@
 ||nex8.net
 ||ipredictive.com
 ||gstatic.com
+||casalemedia.com
+||teads.tv
+||marphezis.com
+||pubmatic.com
 
 !====== User rules: slow=====
 ||ebooks.com
