@@ -32,6 +32,7 @@
 
 
 !-----User rules----
+||freefq.com
 ||openlibrary.org
 ||chatpdf.com
 .vimeocdn.com
