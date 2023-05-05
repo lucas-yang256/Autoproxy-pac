@@ -32,6 +32,7 @@
 
 
 !-----User rules----
+||vitalflux.com
 ||freefq.com
 ||openlibrary.org
 ||chatpdf.com
