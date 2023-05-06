@@ -32,7 +32,8 @@
 
 
 !-----User rules----
-||www.booksamillion.com
+||amazon.com
+||booksamillion.com
 ||vitalflux.com
 ||freefq.com
 ||openlibrary.org
