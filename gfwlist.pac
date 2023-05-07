@@ -32,6 +32,7 @@
 
 
 !-----User rules----
+||bing.com
 ||amazon.com
 ||booksamillion.com
 ||vitalflux.com
