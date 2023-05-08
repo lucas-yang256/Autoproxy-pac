@@ -26,6 +26,7 @@
 ||teads.tv
 ||marphezis.com
 ||pubmatic.com
+||intercom.io
 
 !====== User rules: slow=====
 ||ebooks.com
