@@ -33,6 +33,8 @@
 
 
 !-----User rules----
+||zlibcdn.com
+||1lib.fr
 ||bing.com
 ||amazon.com
 ||booksamillion.com
@@ -1913,6 +1915,7 @@ zh.uncyclopedia.wikia.com
 ||wikipedia.org
 
 !!---Yahoo---
+||yahoo.com
 ||data.flurry.com
 ||page.bid.yahoo.com
 ||tw.bid.yahoo.com
