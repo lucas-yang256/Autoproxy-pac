@@ -33,6 +33,8 @@
 
 
 !-----User rules----
+||hethathasanear.com
+||buffettsbooks.com
 ||alpinelinux.org
 ||britannica.com
 ||sagepub.com
