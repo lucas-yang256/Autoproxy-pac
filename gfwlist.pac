@@ -33,6 +33,7 @@
 
 
 !-----User rules----
+||ecochem.ind.in
 ||hethathasanear.com
 ||buffettsbooks.com
 ||alpinelinux.org
