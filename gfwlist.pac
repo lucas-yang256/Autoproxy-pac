@@ -38,7 +38,6 @@
 ||buffettsbooks.com
 ||alpinelinux.org
 ||britannica.com
-||sagepub.com
 ||zlibcdn.com
 ||1lib.fr
 ||bing.com
