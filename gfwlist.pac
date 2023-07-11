@@ -33,6 +33,8 @@
 
 
 !-----User rules----
+||inl.gov
+||libguides.com
 ||hethathasanear.com
 ||buffettsbooks.com
 ||alpinelinux.org
