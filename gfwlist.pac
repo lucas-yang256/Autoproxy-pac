@@ -35,11 +35,11 @@
 !-----User rules----
 ||inl.gov
 ||libguides.com
+||ecochem.ind.in
 ||hethathasanear.com
 ||buffettsbooks.com
 ||alpinelinux.org
 ||britannica.com
-||sagepub.com
 ||zlibcdn.com
 ||1lib.fr
 ||bing.com
