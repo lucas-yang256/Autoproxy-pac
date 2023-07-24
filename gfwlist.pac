@@ -33,6 +33,9 @@
 
 
 !-----User rules----
+||jsgroup-chn.com
+||forex.com
+||avatrade.com
 ||inl.gov
 ||libguides.com
 ||ecochem.ind.in
