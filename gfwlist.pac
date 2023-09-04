@@ -33,6 +33,9 @@
 
 
 !-----User rules----
+||zerotier.com
+||dealsaving.com
+||thestreet.com
 ||jsgroup-chn.com
 ||forex.com
 ||avatrade.com
