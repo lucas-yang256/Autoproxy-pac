@@ -33,7 +33,7 @@
 
 
 !-----User rules----
-||int3acres.com
+||1point3acres.com
 ||zerotier.com
 ||dealsaving.com
 ||thestreet.com
