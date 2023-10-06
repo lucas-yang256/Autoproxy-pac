@@ -33,6 +33,7 @@
 
 
 !-----User rules----
+||1point3acres.com
 ||jsgroup-chn.com
 ||forex.com
 ||avatrade.com
