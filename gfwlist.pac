@@ -33,7 +33,10 @@
 
 
 !-----User rules----
-||1point3acres.com
+||int3acres.com
+||zerotier.com
+||dealsaving.com
+||thestreet.com
 ||jsgroup-chn.com
 ||forex.com
 ||avatrade.com
