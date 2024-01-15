@@ -33,6 +33,7 @@
 
 
 !-----User rules----
+||deepai.org
 ||1point3acres.com
 ||zerotier.com
 ||dealsaving.com
