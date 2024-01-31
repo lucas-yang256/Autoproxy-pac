@@ -33,6 +33,17 @@
 
 
 !-----User rules----
+||gstatic.com
+||cfigroup.com
+||nrc.gov
+||z-library.se
+||zlibrary-east.se
+||zlibrary-asia.se
+||1lib.sk
+||zlibrary-global.se
+||z-library.rs
+||singlelogin.re
+||1lib.fr
 ||deepai.org
 ||1point3acres.com
 ||zerotier.com
