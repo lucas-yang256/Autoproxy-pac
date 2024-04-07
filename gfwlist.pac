@@ -33,6 +33,27 @@
 
 
 !-----User rules----
+||magersandquinn.com 
+||analyticsvidhya.com 
+||maozidy.com 
+||nrc.gov 
+||anthropic.com 
+||media-amazon.com 
+||amazonaws.com 
+||360yield.com 
+||myvisualiq.net 
+||amazon.com 
+||iyf.tv 
+||gstatic.com 
+||rlcdn.com 
+||pippio.com 
+||gammaplatform.com 
+||connatix.com 
+||tapad.com 
+||smartadserver.com 
+||adform.net 
+||sanity.io 
+||xiaobaotv.app 
 ||gstatic.com
 ||cfigroup.com
 ||nrc.gov
