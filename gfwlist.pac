@@ -33,6 +33,19 @@
 
 
 !-----User rules----
+||z-lib.io 
+||menshealth.com 
+||xbookcn.net 
+||nbyy.cc 
+||aaro.mil 
+||bootstrapcdn.com 
+||aboutkidshealth.ca 
+||litten.me 
+||quanluo.github.io 
+||lncld.net 
+||xiaobaotv.app 
+||haiwaikan.com
+||chatgpt.com
 ||magersandquinn.com 
 ||analyticsvidhya.com 
 ||maozidy.com 
