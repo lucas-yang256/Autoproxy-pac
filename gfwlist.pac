@@ -33,6 +33,7 @@
 
 
 !-----User rules----
+||askaichat.app
 ||z-lib.io 
 ||menshealth.com 
 ||xbookcn.net 
