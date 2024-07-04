@@ -33,6 +33,15 @@
 
 
 !-----User rules----
+||claytex.com 
+||cnn.com 
+||clashforwindows.org 
+||8pigs.com 
+||dramasq.com 
+||iz8qkg.com 
+||kin6c1.com 
+||gstatic.com 
+||olevod6.com 
 ||askaichat.app
 ||z-lib.io 
 ||menshealth.com 
