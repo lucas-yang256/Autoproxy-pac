@@ -33,6 +33,31 @@
 
 
 !-----User rules----
+||x.com 
+||hss.edu 
+||zlib-official.com 
+||avaaihua.com 
+||fix.com 
+||westworldss.com 
+||nationalguard.com 
+||nra.org 
+||mxptint.net 
+||plista.com 
+||extend.tv 
+||gstatic.com 
+||dowjones.io 
+||cxense.com 
+||motortrend.com 
+||b-cdn.net 
+||phys.org 
+||google.cn 
+||harpercollins.com 
+||sciencenet.cn 
+||theaa.com 
+||theparking.eu 
+||ooyyo.com 
+||bristol.gs 
+||healthline.com 
 ||claytex.com 
 ||cnn.com 
 ||clashforwindows.org 
