@@ -33,6 +33,11 @@
 
 
 !-----User rules----
+||x.ai 
+||grok.com 
+||slidesharecdn.com 
+||z-lib* 
+||bannerhealth.com 
 ||x.com 
 ||hss.edu 
 ||zlib-official.com 
