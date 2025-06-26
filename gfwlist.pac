@@ -21,7 +21,6 @@
 ||openx.net
 ||nex8.net
 ||ipredictive.com
-||gstatic.com
 ||casalemedia.com
 ||teads.tv
 ||marphezis.com
@@ -33,7 +32,14 @@
 
 
 !-----User rules----
+||codeassist.google
+||moomoo.com 
+||annas-archive.org 
+||xuan.com.my
+||asianews.network
+||manus.im
 ||x.ai 
+||gstatic.com
 ||grok.com 
 ||slidesharecdn.com 
 ||z-lib* 
