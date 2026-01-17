@@ -32,6 +32,21 @@
 
 
 !-----User rules----
+||notebooklm.google 
+||groq.com 
+||huggingface.co 
+||yfsp.tv 
+||ikanbot.com 
+||bnbstatic.com 
+||xvv1deos.com 
+||xnxx.gold 
+||txnhh.com 
+||kanuswest.com 
+||monica.im 
+||caoliu1024.com 
+||ig.com 
+||upwork.com 
+||docker.com 
 ||codeassist.google
 ||moomoo.com 
 ||annas-archive.org 
