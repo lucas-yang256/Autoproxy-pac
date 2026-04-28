@@ -32,6 +32,21 @@
 
 
 !-----User rules----
+||redditspace.com 
+||reddit.com 
+||xn--mes358aby2apfg.com 
+||bit.ly 
+||linkedin.cn 
+||gstatic.com 
+||patreonusercontent.com 
+||linux.do 
+||wallzhihu.com 
+||oaiusercontent.com 
+||chatgpt.com 
+||ohmusictheory.com 
+||claude.com 
+||ollama.com 
+||files.oaiusercontent.com 
 ||notebooklm.google 
 ||groq.com 
 ||huggingface.co 
