@@ -32,6 +32,17 @@
 
 
 !-----User rules----
+||doubleclick.net 
+||lastpass.com 
+||openai.com 
+||c.gle 
+||gstatic.com 
+||tronscan.org 
+||onekey.so 
+||z-library.sk 
+||diskanalyzer.com 
+||pipecdn.vip 
+||annas-archive
 ||redditspace.com 
 ||reddit.com 
 ||xn--mes358aby2apfg.com 
