@@ -32,9 +32,9 @@
 
 
 !-----User rules----
+||*claude*
 ||doubleclick.net 
 ||lastpass.com 
-||openai.com 
 ||c.gle 
 ||gstatic.com 
 ||tronscan.org 
