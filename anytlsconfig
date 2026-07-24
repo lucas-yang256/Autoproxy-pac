@@ -1,0 +1,38 @@
+{
+  "log": {
+    "level": "info",
+    "timestamp": true
+  },
+  "inbounds": [
+    {
+      "type": "mixed",
+      "tag": "mixed-in",
+      "listen": "127.0.0.1",
+      "listen_port": port
+    }
+  ],
+  "outbounds": [
+    {
+      "type": "anytls",
+      "tag": "anytls-out",
+      "server": "your host.com",
+      "server_port": port,
+      "password": "password",
+      "tls": {
+        "enabled": true,
+        "server_name": "your host.com"
+      }
+    },
+    {
+      "type": "direct",
+      "tag": "direct"
+    },
+    {
+      "type": "block",
+      "tag": "block"
+    }
+  ],
+  "route": {
+    "final": "anytls-out"
+  }
+}
