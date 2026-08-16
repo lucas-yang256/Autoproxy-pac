@@ -32,6 +32,25 @@
 
 
 !-----User rules----
+||google-analytics.com 
+||olevod.com 
+||cloudflareinsights.com 
+||youmind.com 
+||tiaomans.net 
+||auth0.com 
+||oaistatic.com 
+||sagernet.org 
+||licdn.com 
+||deshraj.ai 
+||google.com 
+||doubleclick.net 
+||gstatic.com 
+||skilljar.com 
+||fonts.googleapis.com 
+||claude.ai 
+||googletagmanager.com 
+||d3e54v103j8qbb.cloudfront.net 
+||shope.com.tw 
 ||*claude*
 ||doubleclick.net 
 ||lastpass.com 
